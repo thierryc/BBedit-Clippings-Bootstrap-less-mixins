@@ -1,0 +1,2 @@
+#INDENT#
+.placeholder(#PLACEHOLDERSTART#@color: placeholderText#PLACEHOLDEREND#);

@@ -1,0 +1,2 @@
+#INDENT#
+.content-columns(#PLACEHOLDERSTART#columnCount#PLACEHOLDEREND#, #PLACEHOLDERSTART#@columnGap: gridGutterWidth#PLACEHOLDEREND#);

@@ -1,0 +1,2 @@
+#INDENT#
+#gradient > .vertical-three-colors(#PLACEHOLDERSTART#startColor: #00b3ee#PLACEHOLDEREND#, #PLACEHOLDERSTART#midColor: #7a43b6#PLACEHOLDEREND#, @colorStop: 50%, #PLACEHOLDERSTART#endColor: #c3325f#PLACEHOLDEREND#);

@@ -1,0 +1,2 @@
+#INDENT#
+#translucent > .border(@color: #PLACEHOLDERSTART#white#PLACEHOLDEREND#, #PLACEHOLDERSTART#alpha: 1#PLACEHOLDEREND#);

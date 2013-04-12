@@ -1,0 +1,2 @@
+#INDENT#
+#translucent > .background(#PLACEHOLDERSTART#@color: white#PLACEHOLDEREND#, #PLACEHOLDERSTART#alpha: 1#PLACEHOLDEREND#);
