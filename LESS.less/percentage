@@ -1,0 +1,2 @@
+#INDENT#
+percentage(#PLACEHOLDERSTART#@number#PLACEHOLDEREND#);		//converts to a %, e.g. 0.5 -> 50%

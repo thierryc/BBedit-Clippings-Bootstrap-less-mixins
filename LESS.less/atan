@@ -1,0 +1,2 @@
+#INDENT#
+atan(#PLACEHOLDERSTART#number#PLACEHOLDEREND#);		//* arctangent - inverse of tangent function

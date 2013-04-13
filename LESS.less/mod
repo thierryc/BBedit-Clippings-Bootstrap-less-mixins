@@ -1,0 +1,2 @@
+#INDENT#
+mod(#PLACEHOLDERSTART#number#PLACEHOLDEREND#, #PLACEHOLDERSTART#number#PLACEHOLDEREND#);		//* first argument modulus second argument

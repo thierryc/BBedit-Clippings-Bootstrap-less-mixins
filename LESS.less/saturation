@@ -1,0 +1,2 @@
+#INDENT#
+saturation(#PLACEHOLDERSTART#@color#PLACEHOLDEREND#);		//returns the `saturation` channel of @color in the HSL space

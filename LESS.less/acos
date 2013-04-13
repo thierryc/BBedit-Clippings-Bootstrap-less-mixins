@@ -1,0 +1,2 @@
+#INDENT#
+acos(#PLACEHOLDERSTART#number#PLACEHOLDEREND#);		//* arccosine - inverse of cosine function

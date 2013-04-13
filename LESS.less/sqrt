@@ -1,0 +1,2 @@
+#INDENT#
+sqrt(#PLACEHOLDERSTART#number#PLACEHOLDEREND#);		//* calculates square root of a number

@@ -1,0 +1,2 @@
+#INDENT#
+fade(#PLACEHOLDERSTART#@color#PLACEHOLDEREND#, #PLACEHOLDERSTART#50%PLACEHOLDEREND#);		//return @color with 50% transparency

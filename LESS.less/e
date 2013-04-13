@@ -1,0 +1,2 @@
+#INDENT#
+e(#PLACEHOLDERSTART#@string#PLACEHOLDEREND#);		//escape string content

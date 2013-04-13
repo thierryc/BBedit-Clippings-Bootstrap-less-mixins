@@ -1,0 +1,2 @@
+#INDENT#
+luma(#PLACEHOLDERSTART#@color#PLACEHOLDEREND#);		//returns the 'luma' value ( #PLACEHOLDERSTART#perceptual brightness#PLACEHOLDEREND#) of @color

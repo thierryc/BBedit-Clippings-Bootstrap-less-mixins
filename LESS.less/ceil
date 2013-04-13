@@ -1,0 +1,2 @@
+#INDENT#
+ceil(#PLACEHOLDERSTART#@number#PLACEHOLDEREND#);		//rounds up to an integer

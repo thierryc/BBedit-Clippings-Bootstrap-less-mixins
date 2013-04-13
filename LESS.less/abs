@@ -1,0 +1,2 @@
+#INDENT#
+abs(#PLACEHOLDERSTART#number#PLACEHOLDEREND#);		//* absolute value of a number

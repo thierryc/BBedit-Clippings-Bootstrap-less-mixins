@@ -1,0 +1,2 @@
+#INDENT#
+hue(#PLACEHOLDERSTART#@color#PLACEHOLDEREND#);		//returns the `hue` channel of @color in the HSL space

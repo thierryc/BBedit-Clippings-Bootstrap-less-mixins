@@ -1,0 +1,2 @@
+#INDENT#
+color(#PLACEHOLDERSTART#@string#PLACEHOLDEREND#);		//parses a string to a color, converts string or escaped value into color

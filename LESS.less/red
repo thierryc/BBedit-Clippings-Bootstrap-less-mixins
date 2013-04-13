@@ -1,0 +1,2 @@
+#INDENT#
+red(#PLACEHOLDERSTART#@color#PLACEHOLDEREND#);		//returns the 'red' channel of @color

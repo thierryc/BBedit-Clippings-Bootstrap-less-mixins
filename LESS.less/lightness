@@ -1,0 +1,2 @@
+#INDENT#
+lightness(#PLACEHOLDERSTART#@color#PLACEHOLDEREND#);		//returns the 'lightness' channel of @color in the HSL space

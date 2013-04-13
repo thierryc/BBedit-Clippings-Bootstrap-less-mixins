@@ -1,0 +1,2 @@
+#INDENT#
+desaturate(#PLACEHOLDERSTART#@color#PLACEHOLDEREND#, #PLACEHOLDERSTART#10%PLACEHOLDEREND#);		//return a color 10% points *less* saturated

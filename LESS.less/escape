@@ -1,0 +1,2 @@
+#INDENT#
+escape(#PLACEHOLDERSTART#@string#PLACEHOLDEREND#);		//URL encodes a string

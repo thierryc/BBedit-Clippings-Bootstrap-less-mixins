@@ -1,0 +1,2 @@
+#INDENT#
+greyscale(#PLACEHOLDERSTART#@color#PLACEHOLDEREND#);		//returns a grey, 100% desaturated color

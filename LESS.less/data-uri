@@ -1,0 +1,2 @@
+#INDENT#
+data-uri(#PLACEHOLDERSTART#[mimetype,] url#PLACEHOLDEREND#);		//* inlines a resource and falls back to url()

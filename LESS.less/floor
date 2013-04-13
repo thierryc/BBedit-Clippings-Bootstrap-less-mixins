@@ -1,0 +1,2 @@
+#INDENT#
+floor(#PLACEHOLDERSTART#@number#PLACEHOLDEREND#);		//rounds down to an integer

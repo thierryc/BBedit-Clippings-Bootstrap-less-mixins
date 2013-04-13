@@ -1,0 +1,2 @@
+#INDENT#
+round(#PLACEHOLDERSTART#number#PLACEHOLDEREND#, #PLACEHOLDERSTART#[places: 0]#PLACEHOLDEREND#);		//rounds a number to a number of places

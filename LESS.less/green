@@ -1,0 +1,2 @@
+#INDENT#
+green(#PLACEHOLDERSTART#@color#PLACEHOLDEREND#);		//returns the 'green' channel of @color

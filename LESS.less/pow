@@ -1,0 +1,2 @@
+#INDENT#
+pow(#PLACEHOLDERSTART#@base#PLACEHOLDEREND#, #PLACEHOLDERSTART#@exponent#PLACEHOLDEREND#);		//* first argument raised to the power of the second argument

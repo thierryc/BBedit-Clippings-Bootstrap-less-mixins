@@ -1,0 +1,2 @@
+#INDENT#
+convert(#PLACEHOLDERSTART#number#PLACEHOLDEREND#, #PLACEHOLDERSTART#units#PLACEHOLDEREND#);		//* converts between number types

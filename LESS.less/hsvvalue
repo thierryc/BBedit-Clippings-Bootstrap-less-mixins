@@ -1,0 +1,2 @@
+#INDENT#
+hsvvalue(#PLACEHOLDERSTART#@color#PLACEHOLDEREND#);		//* returns the 'value' channel of @color in the HSV space

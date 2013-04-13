@@ -1,0 +1,2 @@
+#INDENT#
+hsvsaturation(#PLACEHOLDERSTART#@color#PLACEHOLDEREND#);		//* returns the `saturation` channel of @color in the HSV space

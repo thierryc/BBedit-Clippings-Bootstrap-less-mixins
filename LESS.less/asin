@@ -1,0 +1,2 @@
+#INDENT#
+asin(#PLACEHOLDERSTART#number#PLACEHOLDEREND#);		//* arcsine - inverse of sine function

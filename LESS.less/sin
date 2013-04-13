@@ -1,0 +1,2 @@
+#INDENT#
+sin(#PLACEHOLDERSTART#number#PLACEHOLDEREND#);		//* sine function

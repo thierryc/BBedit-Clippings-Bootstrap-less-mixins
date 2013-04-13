@@ -1,0 +1,2 @@
+#INDENT#
+spin(#PLACEHOLDERSTART#@color#PLACEHOLDEREND#, #PLACEHOLDERSTART#10PLACEHOLDEREND#);		//return a color with a 10 degree larger in hue
