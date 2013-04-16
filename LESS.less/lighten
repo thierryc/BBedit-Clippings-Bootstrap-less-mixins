@@ -1,2 +1,2 @@
 #INDENT#
-lighten(#PLACEHOLDERSTART#@color#PLACEHOLDEREND#, #PLACEHOLDERSTART#10%PLACEHOLDEREND#);		//return a color 10% points *lighter*
+lighten(#PLACEHOLDERSTART#@color#PLACEHOLDEREND#, #PLACEHOLDERSTART#10%#PLACEHOLDEREND#);		//return a color 10% points *lighter*
