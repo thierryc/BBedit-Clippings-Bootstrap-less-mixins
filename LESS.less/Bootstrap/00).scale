@@ -1,2 +1,2 @@
 #INDENT#
-.scale(#PLACEHOLDERSTART#ratio#PLACEHOLDEREND#);
+.scale(#PLACEHOLDERSTART#<ratio> <rationX, rationY>#PLACEHOLDEREND#);

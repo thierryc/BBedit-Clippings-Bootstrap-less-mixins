@@ -1,2 +1,2 @@
 #INDENT#
-.transition-delay(#PLACEHOLDERSTART#@transition-delay#PLACEHOLDEREND#);
+.transition-delay(#PLACEHOLDERSTART#<time>#PLACEHOLDEREND#);

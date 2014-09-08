@@ -1,2 +1,2 @@
 #INDENT#
-.transition(#PLACEHOLDERSTART#transition#PLACEHOLDEREND#);
+.transition(#PLACEHOLDERSTART# <property> <duration> <timing-function> <delay> #PLACEHOLDEREND#);
