@@ -1,2 +1,2 @@
 #INDENT#
-.perspective(#PLACEHOLDERSTART#perspective#PLACEHOLDEREND#);
+.perspective-origin(#PLACEHOLDERSTART#perspective#PLACEHOLDEREND#);
